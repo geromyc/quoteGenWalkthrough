@@ -2,4 +2,4 @@
 
 
 
-// https://thesimpsonsquoteapi.glitch.me/quotes
+// https://thesimpsonsquoteapi.glitch.me
